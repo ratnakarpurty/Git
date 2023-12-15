@@ -8,5 +8,8 @@ class file1
         System.out.println("ensure..");
         System.out.println("Hello..");
         System.out.println("Added one more file");
+
+        main m=new main();
+        m.hello();
     }
 }
